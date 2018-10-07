@@ -1,0 +1,7 @@
+com\gupao\vip\mic\dubbo\user\dto\DebitResponse.class
+com\gupao\vip\mic\dubbo\user\IUserService.class
+com\gupao\vip\mic\dubbo\user\App.class
+com\gupao\vip\mic\dubbo\user\dto\DebitRequest.class
+com\gupao\vip\mic\dubbo\user\dto\UserLoginResponse.class
+com\gupao\vip\mic\dubbo\user\dto\Response.class
+com\gupao\vip\mic\dubbo\user\dto\UserLoginRequest.class

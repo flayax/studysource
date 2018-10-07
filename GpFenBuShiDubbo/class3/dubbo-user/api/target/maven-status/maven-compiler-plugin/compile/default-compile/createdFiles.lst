@@ -1,0 +1,5 @@
+com\gupao\vip\mic\dubbo\user\IUserService.class
+com\gupao\vip\mic\dubbo\user\bean\Response.class
+com\gupao\vip\mic\dubbo\user\bean\UserLoginRequest.class
+com\gupao\vip\mic\dubbo\user\App.class
+com\gupao\vip\mic\dubbo\user\bean\UserLoginResponse.class

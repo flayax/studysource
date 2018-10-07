@@ -1,0 +1,5 @@
+com\gupao\vip\mic\dubbo\main\Bootstrap.class
+com\gupao\vip\mic\dubbo\dal\UserDao.class
+com\gupao\vip\mic\dubbo\user\UserServiceImpl.class
+com\gupao\vip\mic\dubbo\dal\UserDaoImpl.class
+com\gupao\vip\mic\dubbo\user\validator\UserValidator.class

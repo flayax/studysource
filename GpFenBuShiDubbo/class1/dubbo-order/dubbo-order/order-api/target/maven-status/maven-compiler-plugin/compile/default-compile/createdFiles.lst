@@ -1,0 +1,4 @@
+com\gupao\vip\mic\dubbo\order\App.class
+com\gupao\vip\mic\dubbo\order\DoOrderRequest.class
+com\gupao\vip\mic\dubbo\order\DoOrderResponse.class
+com\gupao\vip\mic\dubbo\order\IOrderServices.class
